@@ -1,7 +1,10 @@
-# sauce
-YK
+# You know
 ````
-git clone https://github.com/dragonKLRG/sauce.git
-cd sauce
 pip install .
+````
+# usage
+
+````
+sauce [id]
+
 ````
