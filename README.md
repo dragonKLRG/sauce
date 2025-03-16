@@ -10,7 +10,7 @@
 - **Descargar:** https://www.python.org/downloads/
 - **Instrucciones:** Ejecuta el instalador y marca "Add Python to PATH".
   
-#### Linux
+### Linux
 #### Distribuciones basadas en Debian/Ubuntu:
 sudo apt update
 sudo apt install python3
