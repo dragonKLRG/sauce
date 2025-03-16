@@ -1,28 +1,28 @@
+
+
 # You know
 
-
-
-# Instalation
+# Installation
 
 ## Requirements: Python
 
 ### Windows
-- **Descargar:** https://www.python.org/downloads/
-- **Instrucciones:** Ejecuta el instalador y marca "Add Python to PATH".
+- **Download:** https://www.python.org/downloads/
+- **Instructions:** Run the installer and check "Add Python to PATH".
   
 ### Linux
-#### Distribuciones basadas en Debian/Ubuntu:
-sudo apt update
-sudo apt install python3
+#### Debian/Ubuntu-based distributions:
+``sudo apt update``  
+``sudo apt install python3``
 
-#### Otras distribuciones:
+#### Other distributions:
 - **Arch Linux:**
-  sudo pacman -S python
+  ``sudo pacman -S python``
 - **Red Hat/Fedora:**
-  sudo dnf install python3
+  ``sudo dnf install python3``
 
-### Verificar instalación
-python3 --version
+### Verify installation
+``python3 --version``
 
 https://www.python.org/downloads/
 ````
