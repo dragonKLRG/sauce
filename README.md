@@ -23,8 +23,7 @@
 
 ### Verify installation
 ``python3 --version``
-
-https://www.python.org/downloads/
+``pip3``
 
 # Installation
 ````
